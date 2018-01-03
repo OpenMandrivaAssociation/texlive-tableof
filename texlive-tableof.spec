@@ -1,12 +1,6 @@
-# revision 29296
-# category Package
-# catalog-ctan /macros/latex/contrib/tableof
-# catalog-date 2013-03-05 14:09:10 +0100
-# catalog-license lppl
-# catalog-version 1.2
 Name:		texlive-tableof
-Version:	1.2
-Release:	9
+Version:	1.4a
+Release:	1
 Summary:	Tagging tables of contents
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tableof
@@ -40,12 +34,10 @@ used to provide several tables.
 
 #-----------------------------------------------------------------------
 %files
-%{_texmfdistdir}/tex/latex/tableof/tableof.sty
-%doc %{_texmfdistdir}/doc/latex/tableof/README
-%doc %{_texmfdistdir}/doc/latex/tableof/tableof.pdf
+%{_texmfdistdir}/tex/latex/tableof
+%doc %{_texmfdistdir}/doc/latex/tableof
 #- source
-%doc %{_texmfdistdir}/source/latex/tableof/tableof.dtx
-%doc %{_texmfdistdir}/source/latex/tableof/tableof.ins
+%doc %{_texmfdistdir}/source/latex/tableof
 
 #-----------------------------------------------------------------------
 %prep
