@@ -1,6 +1,6 @@
 Name:		texlive-tableof
-Version:	1.4a
-Release:	2
+Version:	1.4b
+Release:	1
 Summary:	Tagging tables of contents
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tableof
