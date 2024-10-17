@@ -3,7 +3,7 @@ Version:	59837
 Release:	2
 Summary:	Tagging tables of contents
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tableof
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/tableof
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tableof.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tableof.doc.r%{version}.tar.xz
